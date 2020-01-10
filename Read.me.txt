@@ -1,0 +1,15 @@
+Problem Statement:
+Identify customers who spend more money buying things in mall.
+Identify each customer's spending category:
+1. Careless spender
+2. Standard customer
+3. Target customer
+4. Sensible spender
+5. Careful spender
+Also tell the business which customers spend more than others (target customers)
+
+Column names : Description
+1. CustomerID : Customer ID
+2. Gender : Male or Female
+3. Annual_Income(k$) : Annual income in thousand ($)
+4. Spending_Score(1-100) : Spending score of each customer range (1-100)
